@@ -14,7 +14,7 @@ git push
 
 ![alt](./dist/fork.png)
 
-### 2. Apply Secret Key - 시크릿 키를 등록합니다.
+### 2. Apply Secret Key - 시크릿 키를 등록합니다..
 
 ![alt](./dist/apply.png)
 
